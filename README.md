@@ -82,8 +82,8 @@ Output: A new Google Doc with proper headings, checkboxes, and mentions.
 ---
 
 ## Deliverables
-- [GitHub Repository](https://github.com/USERNAME/REPO)
-- [Colab Notebook](https://colab.research.google.com/github/USERNAME/REPO/blob/main/Markdown_to_google_docs.ipynb)
+- [GitHub Repository]((https://github.com/hernanagudelodev/markdown-to-google-docs/))
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OqTcXPEYsTWSTuwJhzNwNnlOUaHJecX8?usp=sharing)
 
 ---
 
